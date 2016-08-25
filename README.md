@@ -1,2 +1,2 @@
 # DAA
-CSCI176 Assignments
+CSCI174 Assignments
